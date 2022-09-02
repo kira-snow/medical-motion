@@ -1,4 +1,5 @@
 # medical-motion
+核心代码暂不开源，论文还在审稿阶段
 1.数据：大鼠肾脏200slice，200帧
 2.数据预处理：去噪，剪裁，fig转换成h5格式
 3.网络：local net+cgan
